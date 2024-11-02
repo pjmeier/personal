@@ -1,7 +1,7 @@
 # Kitchen
 
 
-### <span style="font-size:60px;color:#a1835d;width:20px;height:20px;">&#9632;</span> Beacon Hill (Dulux colour)
+### ![#a1835d](https://placehold.co/15x15/a1835d/a1835d.png) Beacon Hill (Dulux colour)
 
 
 - Light brown coffee colour
