@@ -8,7 +8,7 @@ Reference: [Youtube - No-Knead Multigrain Whole Wheat Bread… super easy… no 
 - 1 teaspoon - Dry yeast
 - Handful - LSA (Linseed, Sunflower & Almond)
 - 1 tablespoon - Olive oil
-- 2 Cups - Bread flour (Lauke Wallaby - 11.5g of protein per 100g)
+- 2 Cups - Bread flour (Laucke Wallaby - 11.5g of protein per 100g)
 - 1.5 Cups - Wholemeal
 - 0.5 Cups - Oats
 
